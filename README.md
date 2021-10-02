@@ -1,6 +1,3 @@
-# Incremental-Game-Firebase
-Tugas Agate Studi Independen Game Programming - Chapter 8: Incremental Game with Firebase
-
 # Chapter 8 - Survival Shooter
 
 Tugas Chapter 8 dari studi independen Agate Academy bidang game programming. Hal yang dibuat kali ini adalah game Incremental Game with Firebase untuk cloud storage dan analytics.
